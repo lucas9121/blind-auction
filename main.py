@@ -1,6 +1,5 @@
 import os
 from art import logo
-#HINT: You can call clear() to clear the output in the console.
 auctions = []
 
 continue_bidding = True
